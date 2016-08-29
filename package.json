@@ -1,0 +1,19 @@
+{
+  "name": "node_messaround",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.74.0",
+    "stream": "0.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
